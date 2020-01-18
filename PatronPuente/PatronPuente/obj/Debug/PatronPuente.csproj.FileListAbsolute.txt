@@ -1,0 +1,7 @@
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronPuente\PatronPuente\bin\Debug\PatronPuente.exe.config
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronPuente\PatronPuente\bin\Debug\PatronPuente.exe
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronPuente\PatronPuente\bin\Debug\PatronPuente.pdb
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronPuente\PatronPuente\obj\Debug\PatronPuente.csprojAssemblyReference.cache
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronPuente\PatronPuente\obj\Debug\PatronPuente.csproj.CoreCompileInputs.cache
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronPuente\PatronPuente\obj\Debug\PatronPuente.exe
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronPuente\PatronPuente\obj\Debug\PatronPuente.pdb

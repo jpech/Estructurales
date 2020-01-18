@@ -1,0 +1,7 @@
+C:\Users\julian.pech\source\repos\PatronComposicion\PatronComposicion\bin\Debug\PatronComposicion.exe.config
+C:\Users\julian.pech\source\repos\PatronComposicion\PatronComposicion\bin\Debug\PatronComposicion.exe
+C:\Users\julian.pech\source\repos\PatronComposicion\PatronComposicion\bin\Debug\PatronComposicion.pdb
+C:\Users\julian.pech\source\repos\PatronComposicion\PatronComposicion\obj\Debug\PatronComposicion.csprojAssemblyReference.cache
+C:\Users\julian.pech\source\repos\PatronComposicion\PatronComposicion\obj\Debug\PatronComposicion.csproj.CoreCompileInputs.cache
+C:\Users\julian.pech\source\repos\PatronComposicion\PatronComposicion\obj\Debug\PatronComposicion.exe
+C:\Users\julian.pech\source\repos\PatronComposicion\PatronComposicion\obj\Debug\PatronComposicion.pdb

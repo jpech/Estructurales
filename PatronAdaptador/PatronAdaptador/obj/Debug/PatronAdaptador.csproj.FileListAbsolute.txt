@@ -1,0 +1,10 @@
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronAdaptador\PatronAdaptador\bin\Debug\PatronAdaptador.exe.config
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronAdaptador\PatronAdaptador\bin\Debug\PatronAdaptador.exe
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronAdaptador\PatronAdaptador\bin\Debug\PatronAdaptador.pdb
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronAdaptador\PatronAdaptador\obj\Debug\PatronAdaptador.csprojAssemblyReference.cache
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronAdaptador\PatronAdaptador\obj\Debug\PatronAdaptador.csproj.CoreCompileInputs.cache
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronAdaptador\PatronAdaptador\obj\Debug\PatronAdaptador.exe
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronAdaptador\PatronAdaptador\obj\Debug\PatronAdaptador.pdb
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronAdaptador\PatronAdaptador\bin\Debug\Newtonsoft.Json.dll
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronAdaptador\PatronAdaptador\bin\Debug\Newtonsoft.Json.xml
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronAdaptador\PatronAdaptador\obj\Debug\PatronAdaptador.csproj.CopyComplete

@@ -1,0 +1,7 @@
+C:\Users\julian.pech\source\repos\PatronDecorador\PatronDecorador\bin\Debug\PatronDecorador.exe.config
+C:\Users\julian.pech\source\repos\PatronDecorador\PatronDecorador\bin\Debug\PatronDecorador.exe
+C:\Users\julian.pech\source\repos\PatronDecorador\PatronDecorador\bin\Debug\PatronDecorador.pdb
+C:\Users\julian.pech\source\repos\PatronDecorador\PatronDecorador\obj\Debug\PatronDecorador.csprojAssemblyReference.cache
+C:\Users\julian.pech\source\repos\PatronDecorador\PatronDecorador\obj\Debug\PatronDecorador.csproj.CoreCompileInputs.cache
+C:\Users\julian.pech\source\repos\PatronDecorador\PatronDecorador\obj\Debug\PatronDecorador.exe
+C:\Users\julian.pech\source\repos\PatronDecorador\PatronDecorador\obj\Debug\PatronDecorador.pdb
