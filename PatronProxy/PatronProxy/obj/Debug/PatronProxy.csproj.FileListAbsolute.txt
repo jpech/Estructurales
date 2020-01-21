@@ -1,0 +1,7 @@
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronProxy\PatronProxy\bin\Debug\PatronProxy.exe.config
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronProxy\PatronProxy\bin\Debug\PatronProxy.exe
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronProxy\PatronProxy\bin\Debug\PatronProxy.pdb
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronProxy\PatronProxy\obj\Debug\PatronProxy.csprojAssemblyReference.cache
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronProxy\PatronProxy\obj\Debug\PatronProxy.csproj.CoreCompileInputs.cache
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronProxy\PatronProxy\obj\Debug\PatronProxy.exe
+C:\Users\julian.pech\Documents\Visual Studio 2017\Projects\PatronProxy\PatronProxy\obj\Debug\PatronProxy.pdb
